@@ -15,5 +15,6 @@ public class Salon {
         this.costo_por_hora = costo_por_hora;
         this.disponibilidad = disponibilidad;
     }
+    }
     
     // METODO 1 DE LA CLASE PRINCIPAL:
